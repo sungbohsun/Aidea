@@ -1,6 +1,6 @@
 # Aidea
 
-''' python
+```bash
 ├── data
 │   ├── assets
 │   │   ├── model
@@ -11,5 +11,4 @@
 │   │   └── audio
 │   └── result
 │       └── ce200_voca
-
-'''
+```
