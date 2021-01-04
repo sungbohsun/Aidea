@@ -1,6 +1,6 @@
 # Aidea
 
-'''
+''' python
 ├── data
 │   ├── assets
 │   │   ├── model
